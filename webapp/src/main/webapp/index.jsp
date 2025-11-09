@@ -1,6 +1,6 @@
 <form action="action_page.php">
 
-   <h1> Thankyou murali</h1>
+   <h1> Thankyou Kalyan</h1>
 
   
 </form>
